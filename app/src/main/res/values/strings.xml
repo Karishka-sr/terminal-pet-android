@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Terminal Pet</string>
+    <string name="pet_name">Кексик</string>
+    <string name="feed">Покормить 🍖</string>
+    <string name="play">Поиграть 🎾</string>
+    <string name="sleep">Спать 💤</string>
+    <string name="tick">Тик ⏳</string>
+    <string name="stat_hunger">Сытость</string>
+    <string name="stat_energy">Энергия</string>
+    <string name="stat_happy">Счастье</string>
+    <string name="stat_age">Возраст</string>
+    <string name="hint_dead">Твой питомец ушёл в большой скроллбуфер… Заведи нового!</string>
+    <string name="btn_resurrect">Новый питомец ✨</string>
+</resources>

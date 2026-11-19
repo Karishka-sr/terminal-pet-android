@@ -1,0 +1,1 @@
+# Keep default rules; no custom R8 rules needed for this app.
